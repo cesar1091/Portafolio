@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data scientist
 # your company information
 company:
   name: Vidasoftware SAC.
@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate data science with 1 years of working experience. I built machine learning pipelines in [Azure](https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAiA55mPBhBOEiwANmzoQqL00rKzG3arhjEhDg53GczwYXNEq1EJAd3PLCvm6OR20VNRDO-9SxoC47sQAvD_BwE:G:s&OCID=AID2200236_SEM_CjwKCAiA55mPBhBOEiwANmzoQqL00rKzG3arhjEhDg53GczwYXNEq1EJAd3PLCvm6OR20VNRDO-9SxoC47sQAvD_BwE:G:s&gclid=CjwKCAiA55mPBhBOEiwANmzoQqL00rKzG3arhjEhDg53GczwYXNEq1EJAd3PLCvm6OR20VNRDO-9SxoC47sQAvD_BwE) using Python and R. My tools help people to deploy their workloads with cloud solutions. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -26,6 +26,18 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/cesar1091"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/césar-aarón-fernández-niño-296182116"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "cafn.1091@gmail.com"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/story/16408585#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -37,3 +49,9 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Curiosity
+  percentage: 95
+  color: black
+- name: Perseverance
+  percentage: 90
+  color: green 
