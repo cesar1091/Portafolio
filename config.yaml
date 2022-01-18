@@ -23,6 +23,16 @@ enableEmoji: true
 
 # Site parameters
 params:
+  # background image of the landing page
+  background: "images/background.jpg"
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  # It will default to the theme logos if not provided.
+  logo:
+    main: images/main-logo.png
+    inverted: images/inverted-logo.png
+    favicon: images/favicon.png
   # GitHub repo URL of your site
   gitRepo: https://github.com/cesar1091/cesar1091.github.io
 
@@ -36,10 +46,3 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
-
-  background: "images/background.jpg"
-  
-  logo:
-    main: images/main-logo.png
-    inverted: images/inverted-logo.png
-    favicon: images/favicon.png
