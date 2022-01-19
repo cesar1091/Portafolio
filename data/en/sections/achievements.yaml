@@ -10,15 +10,16 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
+
+- title: IMCA participation in symposium of stochastic optimization.
+  image: /images/sections/achievements/imca-const.jpg
+  summary: Minicourse of stochastic optimization in octave.
 - title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+  image: /images/sections/achievements/sport-champion.jpg
+  summary: Champion in soccer competition between UPC personal.
 - title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  image: /images/sections/achievements/graduation-cert.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Mathemtics from Callao's University.
+- title: Datathon participation
+  image: /images/sections/achievements/entel-datathon.jpg
+  summary: Participation and top 10 in Entel datathon in the field of object detection.

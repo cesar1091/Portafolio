@@ -11,18 +11,35 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Balflex Perú SAC.
+    url: "https://balflexperu.com/"
+    location: Lima - Ate
+    # company overview
+    overview: Balflex Perú SAC. is a branch office of the most confident company of industrial hoses in the world. They sell hoses products to transport industry, naval industry, mining industry, etc.
+  positions:
+  - designation: Logistic asistent and data engineer jr
+    start: Jan 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Dec 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop of a relational database in postgreSQL for the logistics tracking of the warehouse and sales made by the sales team.
+    - Develop of reports for management of remaining assets in the warehouse and creation of an excel dashboard connected to the created database.
+    
+- company:
     name: Vida Software SAC.
     url: "https://www.vida.software/"
     location: Lima - Surco
     # company overview
-    overview: Vida Software SAC. is a widely recognized company for data analytics development. It builds tools for Kubernetes.
+    overview: Vida Software SAC. is a widely recognized company for data analytics development. It builds tools for private servers and Azure cloud to create valuable dashboards to metric the proccess in your company.
   positions:
-  - designation: Data science intern
+  - designation: Data science jr
     start: Nov 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Dec 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and develop pipelines to clean the database and create machine learning projects to improve the proccess of the company.
+    - Design, develop and manage recommendation system to increse the number of sells and create a better flow of the products in the storehouse. 
+    - Design, develop and manage RFM analysis to create clusters of clients and create a metric of value of the client in the company, then create a customer retention strategy with the company.
+    - Design, develop and manage forecasting of product demands by region to coordinate the sells and the storehouses in a best way.

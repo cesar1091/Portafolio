@@ -44,14 +44,17 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 75
   color: blue
 - name: Team Work
-  percentage: 90
+  percentage: 80
   color: yellow
 - name: Curiosity
-  percentage: 95
+  percentage: 85
   color: black
 - name: Perseverance
-  percentage: 90
+  percentage: 80
   color: green 
+- name: Resilient
+  percentage: 75
+  color: pink 

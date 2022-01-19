@@ -24,7 +24,7 @@ projects:
 - name: Kubernetes
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
-  timeline: "March 2018 - Present"
+  timeline: "March 2020 - Present"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Production-Grade Container Scheduling and Management.
@@ -39,6 +39,14 @@ projects:
   summary: An Open Source Machine Learning Framework for Everyone.
   tags: ["professional", "machine-learning","academic"]
 
+- name: Youtube
+  logo: /images/sections/projects/youtube.png
+  role: Owner
+  timeline: "Jan 2021 - Present"
+  repo: https://github.com/cesar1091
+  summary: A personal youtube channel to share my knowledge with the Latam community developers.
+  tags: ["hobby","professional"]
+
 - name: Toha
   logo: /images/sections/projects/toha.png
   role: Owner
@@ -46,3 +54,4 @@ projects:
   repo: https://github.com/hossainemruz/toha
   summary: A Hugo theme for personal portfolio.
   tags: ["hobby","hugo","theme","professional"]
+
