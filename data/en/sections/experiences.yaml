@@ -43,7 +43,7 @@ experiences:
     - Design, develop and manage recommendation system to increse the number of sells and create a better flow of the products in the storehouse. 
     - Design, develop and manage RFM analysis to create clusters of clients and create a metric of value of the client in the company, then create a customer retention strategy with the company.
     - Design, develop and manage forecasting of product demands by region to coordinate the sells and the storehouses in a best way.
-    - company:
+- company:
     name: Siderperu.
     url: "https://www.siderperu.com.pe"
     location: Lima - San Isidro
