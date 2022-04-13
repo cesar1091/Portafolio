@@ -33,7 +33,7 @@ experiences:
     # company overview
     overview: Vida Software SAC. is a widely recognized company for data analytics development. It builds tools for private servers and Azure cloud to create valuable dashboards to metric the proccess in your company.
   positions:
-  - designation: Data science jr
+  - designation: Data scientist jr
     start: Nov 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Dec 2021
@@ -43,3 +43,19 @@ experiences:
     - Design, develop and manage recommendation system to increse the number of sells and create a better flow of the products in the storehouse. 
     - Design, develop and manage RFM analysis to create clusters of clients and create a metric of value of the client in the company, then create a customer retention strategy with the company.
     - Design, develop and manage forecasting of product demands by region to coordinate the sells and the storehouses in a best way.
+    - company:
+    name: Siderperu.
+    url: "https://www.siderperu.com.pe"
+    location: Lima - San Isidro
+    # company overview
+    overview: Siderperu is the biggest steel company in Peru. Siderperu belongs to the largest steel group in the Americas, the Gerdau Group.
+  positions:
+  - designation: Data scientist
+    start: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: "Present"
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop pipelines to clean the database to improve the proccess of the company.
+    - Get necessities of different kinds of areas to consolidate different ideas to create new projects.
+    - Create dashboards to different areas to follow KPIs from different necessities.

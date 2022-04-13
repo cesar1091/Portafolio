@@ -10,9 +10,9 @@ section:
 # your designation
 designation: Data scientist
 # your company information
-#company:
-#  name: Vidasoftware SAC.
-#  url: "https://www.vida.software/"
+company:
+  name: Siderperu.
+  url: "https://www.siderperu.com.pe/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
