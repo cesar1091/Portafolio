@@ -11,15 +11,19 @@ section:
 # Your achievements achievements
 achievements:
 
-- title: IMCA participation in symposium of stochastic optimization.
-  image: /images/sections/achievements/imca-const.jpg
-  summary: Minicourse of stochastic optimization in octave.
+- title: Conference about the important of the data government in companies.
+  image: /images/sections/achievements/flyer_siderperu.jpeg
+  summary: Data governance conference.
 - title: Champion
   image: /images/sections/achievements/sport-champion.jpg
   summary: Champion in soccer competition between UPC personal.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cert.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Mathemtics from Callao's University.
+- title: TITD - Innovation fair
+  image: /images/sections/achievements/feria_titd.jpeg
+  summary: Winners in the innovation fair - Siderperu
 - title: Datathon participation
   image: /images/sections/achievements/entel-datathon.jpg
-  summary: Participation and top 10 in Entel datathon in the field of object detection.
+  summary: Participation and top 5 in Entel datathon in the field of object detection.
+- title: Team TITD
+  image: /images/sections/achievements/team_titd.jpeg
+  summary: First presential meet after COVID.
+
