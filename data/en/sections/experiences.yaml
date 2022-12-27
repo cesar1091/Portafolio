@@ -59,3 +59,19 @@ experiences:
     - Design and develop pipelines to clean the database to improve the proccess of the company.
     - Get necessities of different kinds of areas to consolidate different ideas to create new projects.
     - Create dashboards to different areas to follow KPIs from different necessities.
+- company:
+    name: Farmacias Peruanas SA.
+    url: "https://www.inretail.pe/"
+    location: Lima - La Victoria
+    # company overview
+    overview: It is a private company founded in 1997, dedicated to the sale and marketing of pharmacy products, as well as perfumery and toiletries. Currently, it has 197 stores strategically located in the capital city, as well as 204 drugstores distributed in the north, south, center and east of Peru.
+  positions:
+  - designation: Business Analyst
+    start: Oct 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: "Present"
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Research and communicate insights from campaign and commercial data at the national level.
+    - Generate customer profile classification models at national level and analyze new market opportunities at national level.
+    - Communicate the reach of loyalty campaigns and crosseling generated in customers.
