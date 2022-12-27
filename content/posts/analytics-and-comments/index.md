@@ -11,3 +11,5 @@ menu:
 ---
 
 ### Complete Post Coming Soon...
+
+Proximamente adjuntaremos los apuntes del curso de machine learning
