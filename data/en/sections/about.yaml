@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data scientist
+designation: Business Analyst
 # your company information
 company:
-  name: Siderperu.
-  url: "https://www.siderperu.com.pe/"
+  name: Farmacias Peruanas.
+  url: "https://https://www.inretail.pe/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
