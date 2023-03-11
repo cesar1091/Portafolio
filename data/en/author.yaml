@@ -6,7 +6,7 @@ greeting: "Hi, I am"
 image: "images/author/aaron.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "cafn.1091@gmail.com"
+  email: "cesaraar@mit.edu"
   phone: "+051 980618330"
 
 # some summary about what you do
